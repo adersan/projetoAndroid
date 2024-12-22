@@ -39,7 +39,7 @@ header{
     background-image:linear-gradient(to bottom, var(--cor3), var(--cor5));
     min-height: 150px;
     text-align: center;
-    padding: 40px;
+    padding: 20px;
 
 }
 header > h1{
@@ -57,7 +57,6 @@ header > p{
     color: white;
     max-width: 500px;
     margin: auto;
-    padding-bottom: 20px;
     padding-left: 10px;
     padding-right: 10px;
     text-shadow: 2px 2px 0px #00000060;
